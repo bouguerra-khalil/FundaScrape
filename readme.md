@@ -1,5 +1,7 @@
 
 # Setup
+* PYHTON VERSION MUST BE 3.6.9
+
 * Choose the folder coresponding to your Operating system : 
 
         cd <OPERATING_SYSTEM>
@@ -38,3 +40,5 @@
 - (FAST TEST) To scrape n houses of each category:
 
         python main.py --command test n
+
+
